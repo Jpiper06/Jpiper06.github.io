@@ -1,11 +1,11 @@
 # Site settings
 author: Jaquan Piper
-title: 
+title: Why did I decide to study Software Engineering
 header-img: img/home-bg.png
 email: jaquan.piper@gmail.com
 copyright_name: Jaquan Piper
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Three F's for me becoming a Software Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Jpiper06
